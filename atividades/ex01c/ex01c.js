@@ -1,3 +1,3 @@
-let nome = prompt("digite seu nome")
+let nome = prompt("Digite seu nome")
 
-alert(nome)
+alert("Bom dia!" + nome)

@@ -1,7 +1,7 @@
-let comprimento = prompt("Digite um comprimento")
+let comprimento = parseFloat (prompt("Digite um comprimento"));
 
-let largura = prompt("Digite uma uma largura")
+let largura = parseFloat (prompt("Digite uma uma largura"));
 
-let calculo = 2 * (comprimento + largura )
+let perimetro = 2 * (comprimento + largura );
 
-alert ("O calculo de " + comprimento + "é " + largura)
+alert ("O perimetro é"  + perimetro);
