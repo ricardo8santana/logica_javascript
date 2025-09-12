@@ -35,3 +35,18 @@ alert(estudo);
 
 estudo = false;
 alert(estudo);
+
+/*
+Operadores relacionais:
+    Os operadores relacionais servem para verificar a relação entre dois valores.
+    O resultado desta operação sempre será um valor BOOLEANO
+>  (maior que)
+>= (maior ou igual)
+<  (menor que)
+<= (menor ou igual)
+== (igual) --> aqui comparamos igualdade em valor
+=== (estritamente igual) --> aqui compramos igualdade em valor e tipo
+!= (diferente)
+*/
+
+alert(`5 >3? ${5>3}`);
