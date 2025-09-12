@@ -1,0 +1,1 @@
+let celular = prompt("Qual nivel de bateria");

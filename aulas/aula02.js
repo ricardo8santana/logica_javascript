@@ -47,6 +47,15 @@ Operadores relacionais:
 == (igual) --> aqui comparamos igualdade em valor
 === (estritamente igual) --> aqui compramos igualdade em valor e tipo
 != (diferente)
+!== (estritamente diferente)
 */
 
 alert(`5 >3? ${5>3}`);
+alert(`5 >=5? ${5>=5}`);
+alert(`5 <8? ${5<8}`);
+alert(`5 <=8? ${5<=8}`);
+alert(`5 =="5"? ${5=="5"}`);
+alert(`5 === "5"? ${5==="5"}`);
+alert(`8 != '8'? ${8!='8'}`);
+alert(`8 !== '8'? ${8!=='8'}`);
+
