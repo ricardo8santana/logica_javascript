@@ -1,6 +1,7 @@
-let numero = parseInt(prompt("Digite um numero"))
+let numero = parseInt(prompt("Digite um numero"));
 
-let calculo = numero * 3 
-let total = numero / 2
+let triplo = numero * 3; 
+let metade = numero / 2;
 
-alert(" O Triplo é " + calculo + " a metade é " + total)
+alert(" metade " +numero + " a metade é " + metade);
+alert(" O Triplo é " + triplo + " a metade é " + metade);
