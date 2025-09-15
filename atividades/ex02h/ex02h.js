@@ -1,8 +1,7 @@
 
+let altura = parseFloat(prompt("Qual a sua altura"));
 
-let alturaJogador = parseInt(prompt("Qual a sua altura"));
+let jogador = altura > 1.80;
 
-let alturaMinima = 1.80;
-let participar = alturaJogador >= alturaMinima;
-alert("Participar do Time?" + participar); 
+alert("Participar do Time?" + jogador); 
 
