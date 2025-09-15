@@ -1,1 +1,6 @@
-let celular = prompt("Qual nivel de bateria");
+let bateria = prompt("Qual nivel de bateria");
+
+verifica = bateria >= 50;
+
+alert("Pode vender?" + bateria);
+
