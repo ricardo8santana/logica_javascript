@@ -1,5 +1,7 @@
-let senha = parseInt(prompt("Senha digitada"));
+let senha =prompt("Senha digitada");
 
-senhaCorreta = senha ===1234 ;
+let senhaCorreta = "1234";  
 
-alert("Senha valida?" + senhaCorreta);
+//senhaCorreta = senha ===1234 ;
+let valida = senha === senhaCorreta;
+alert("Senha valida?" + valida);
