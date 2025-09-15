@@ -1,5 +1,5 @@
-let estagiario = prompt("Você frequenta um curso técnico");
+let curso = prompt("Você frequenta um curso técnico");
 
-let cursoTecnico = estagiario == "sim";
+let cursoTecnico = curso == "sim";
 
 alert("Pode se candidatar" + cursoTecnico);
