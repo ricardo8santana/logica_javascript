@@ -10,7 +10,7 @@ ELSE (SENÃO) --> Para este comando ser executado, precisamos que a operação d
 
 let idade = 18;
 if(idade >= 16){
-    alert("alert votar");
+    alert("Pode votar");
 }else {
     alert("Não pode votar");
 }
