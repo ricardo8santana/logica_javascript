@@ -1,4 +1,4 @@
-let dia = prompt("1-manhã 2-tarde 3-noite 4-madrugada")
+let dia = prompt("Qual horário do dia: 1-manhã 2-tarde 3-noite 4-madrugada")
 
 switch (dia){
     case "1":

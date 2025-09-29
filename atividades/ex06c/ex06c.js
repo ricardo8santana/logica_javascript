@@ -1,16 +1,16 @@
 let frase = prompt("1-oi 2-tchau 3-obrigado 4-ajuda");
 
 switch (frase){
- case "1":
+ case "oi":
     console.log("Como vai?");
     break;
- case "2":
+ case "tchau":
     console.log("até amanhã");
     break;
-case "3":
+case "obrigado":
     console.log("pelo presente");
     break;
-case "4":
+case "ajuda":
     console.log("obrigado pela ajuda");
     break;
 default:
