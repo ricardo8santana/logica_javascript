@@ -10,3 +10,14 @@ switch (variavel){
 }
 
 */
+
+let opcao = prompt("Escolha: 1-Estudante 2-Professor 3-")
+
+switch (opcao){
+    case "1":
+        console.log("Bem vindo estudante");
+    case "2":
+        console.log("Bem vindo Professor");
+    case "3":
+        console.log("Vamos fazer sua matricula!");
+}
