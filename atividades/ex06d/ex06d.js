@@ -1,16 +1,16 @@
-let dia = prompt("Qual horário do dia: 1-manhã 2-tarde 3-noite 4-madrugada")
+let dia = prompt("Qual horário do dia: manhã -tarde -noite -madrugada")
 
 switch (dia){
-    case "1":
+    case "manhã":
         console.log("Café da manhã");
         break;
-    case "2":
+    case "tarde":
         console.log("almoço");
         break;
-    case "3":
+    case "noite":
         console.log("jantar");
         break;
-    case "4":
+    case "madrugada":
         console.log("lanche noturno");
         break;
     default:

@@ -43,3 +43,22 @@ switch (opcao){
   O programa deve indicar a refeição correspondente: "Café da manhã", "almoço",
   "jantar" ou "lanche noturno".
 */
+/*
+1. Leia a classificação indicativa de um filme (um número) e mostre:
+    Se for menor que 12 → "Não recomendado para crianças".
+    Entre 12 e 15 → "Permitido para adolescentes".
+    Maior ou igual a 16 → "Permitido apenas para maiores de 16".
+2. Um cliente digita o lanche e o programa precisa mostrar as calorias: "Hambúrguer" |
+    "Batata frita" | "Refrigerante" | "Sorvete". Mostre o item escolhido.
+3. Leia a velocidade de um carro e mostre:
+    Se for até 60 km/h → "Dentro do limite". | Entre 61 e 80 km/h → "Atenção,
+    perto do limite!". Acima de 80 km/h → "Multa por excesso de velocidade".
+4. O jogador lança um dado (número de 1 a 6). Mostre a mensagem:
+    1 → "Você perdeu a vez" | 2 ou 3 → "Avance 1 casa" | 4 ou 5 → "Avance 2 casas"
+    6 → "Jogue novamente"
+5. Leia a média final de um aluno: Menor que 4 → "Reprovado direto"
+    Entre 4 e 5,9 → "Recuperação" | Entre 6 e 8 → "Aprovado" | Acima de 8 → "Aprovado
+    com mérito"
+
+
+*/

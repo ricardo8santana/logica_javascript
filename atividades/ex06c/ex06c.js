@@ -1,4 +1,4 @@
-let frase = prompt("1-oi 2-tchau 3-obrigado 4-ajuda");
+let frase = prompt("oi -tchau -obrigado -ajuda");
 
 switch (frase){
  case "oi":
