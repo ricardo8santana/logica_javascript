@@ -1,4 +1,4 @@
-let jogador = prompt("Lance o dado 1|2|3|4|5|6");
+let jogador = prompt("Lance o dado: 1|2|3|4|5|6");
 
 switch (jogador){
     case "1":

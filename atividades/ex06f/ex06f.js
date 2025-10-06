@@ -14,5 +14,5 @@ switch (lanche){
         console.log("Sorvete  podem chegar a 150 kcal por bola");
         break;
     default:
-        console.log("Você digitou errado!")
+        console.log("Você escolheu! ")
 }
